@@ -18,14 +18,3 @@
   
   Un agregado para los que leyeron la presentación de forma no irónica, le metí por ahí un par de typos para que puedan cumplir su requisito de corregir a los demás.
   Etá es um regalpo para utedemps pa qe leyeon tol coso ete
-
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
