@@ -8,6 +8,11 @@
 
   Además, soy estudiante de piano y en mis ratos libres me estoy dedicando a desarrollar un videojuego junto con unos compañeros de la Image Campus.
 
+# Mi experiencia
+  Soy Tépnico Eléctrico recibido del colegio Ing. Luis A. Huergo \(*el público*, para los conocedores\).
+
+  Mi experiencia *profesional* como desarrollador es rozando a nula, siendo que nunca estuve ***contratado***, pero me encanta desarrollár cosas y he hecho infinidad de proyectos personales en temas de robótes, aplicaciones web, videojuegos y alguna que otra cosa más. :P
+
 # presentacion-
 
 - Escriban presentación sobre ustedes.
