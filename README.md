@@ -13,6 +13,12 @@
 
   Mi experiencia *profesional* como desarrollador es rozando a nula, siendo que nunca estuve ***contratado***, pero me encanta desarrollár cosas y he hecho infinidad de proyectos personales en temas de robótes, aplicaciones web, videojuegos y alguna que otra cosa más. :P
 
+# Nota al pie
+  No pretenía que esta presentación terminase quedando como *un curriculum* pero me resulta ***muy*** *incómodo* hablar de mí mismo, así que espero que sea suficiente. c:
+  
+  Un agregado para los que leyeron la presentación de forma no irónica, le metí por ahí un par de typos para que puedan cumplir su requisito de corregir a los demás.
+  Etá es um regalpo para utedemps pa qe leyeon tol coso ete
+
 # presentacion-
 
 - Escriban presentación sobre ustedes.
