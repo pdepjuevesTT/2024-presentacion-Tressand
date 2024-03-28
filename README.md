@@ -1,3 +1,6 @@
+# ¿Quien soy?
+  Buenas, mi nombre es Geronimo Herrera y tngo 20 años. Soy un tipo sencillo, amigable, curioso y muy autodidacta al que me encanta siempre aprender cosas nuevas.
+
 # presentacion-
 
 - Escriban presentación sobre ustedes.
